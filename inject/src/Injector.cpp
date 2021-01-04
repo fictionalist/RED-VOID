@@ -10,7 +10,6 @@
 #include <DbgHelp.h>
 #include <TlHelp32.h>
 
-
 char* formatSystemMessage(DWORD err) {
 	char* buf = nullptr;
 	FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER | FORMAT_MESSAGE_FROM_SYSTEM | FORMAT_MESSAGE_IGNORE_INSERTS, NULL, err, 0, buf, 0, 0);
