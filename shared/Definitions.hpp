@@ -10,6 +10,12 @@
 
 #define WINDOW_NAME "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]"
 
+#ifdef _DEBUG
+#define DLLname "redvoid_d.dll"
+#else
+#define DLLname "redvoid.dll"
+#endif
+
 /* Global variables */
 
 #define UNICLR_CURRENT_SCENE							( (unsigned long) 0x2EA1C0 )

@@ -20,12 +20,10 @@ LRESULT CALLBACK windowProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 		case WM_KEYDOWN: {
 			switch (wParam) {
 				case VK_F5: {
-					Logger::log("Game state saved.");
 					GameState::save();
 					break;
 				}
 				case VK_F6: {
-					Logger::log("Game state loaded.");
 					GameState::load();
 				}
 			}
