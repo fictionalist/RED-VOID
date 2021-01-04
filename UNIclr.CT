@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"!Technical - Current BGM"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2E165C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"!Technical - P1 Grid Incomplete Block Progress Animation Goal"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAEA4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"!Technical - P1 lingering HP?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D4A08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>56</ID>
+      <Description>"!Technical - P2 Grid Full Blocks - Animation Goal"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAFE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>58</ID>
+      <Description>"!Technical - P2 Grid Incomplete Block Progress Animation Goal"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAFE4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"!Technical - P2 lingering HP?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D53E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"!Technical - Stage Angle Preset"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2E188C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>49</ID>
+      <Description>"!Technical? P1 Grid Full Blocks - Animation Goal"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAEA0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"? The faster this value increases, the easier P1 can increase their GRD blocks by approaching"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB014</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"Current Scene"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2EA1C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"Current Stage"</Description>
+      <DropDownList DisplayValueAsItem="1">1: Metro Center Intersection
+2: Highrise
+3: Park
+4: Riverside Esplanade
+5: Underpass
+6: Amber Streetlamps
+7: Shopping Gallery
+8: Guardian Shrine
+10: Crimson Lot
+11: Abandoned Building
+12: Power Station
+13: Somnus Fountain
+14: Old School Building
+15: Cafeteria
+17: East Kanzakai Playground
+18: Cathedral of the East
+16: Momiji Street
+19: Art Museum of Light and Water
+9: Sanctum of Reflection
+90: Training Room
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+436838</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>77</ID>
+      <Description>"Local Player Plate"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+92B9AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>79</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB370</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>78</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4474B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>75</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB020</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>76</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB370</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>84</ID>
+      <Description>"No description"</Description>
+      <VariableType>Float</VariableType>
+      <Address>UNIst.exe+3946E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"No description"</Description>
+      <VariableType>Float</VariableType>
+      <Address>UNIst.exe+3947A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>62</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+44B39C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>94</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2F4CF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>95</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D4DE4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>88</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D4D20</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>91</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D53B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"P1 Character"</Description>
+      <DropDownList DisplayValueAsItem="1">0: Hyde
+1: Linne
+2: Waldstein
+3: Carmine
+4: Orie
+5: Gordeau
+6: Merkava
+7: Vatista
+8: Seth
+9: Yuzuriha
+10: Hilda
+11: Eltnum
+12: Nanase
+13: Byakuya
+14: Akatsuki
+15: Chaos
+16: Wagner
+17: Enkidu
+18: Londrekia
+21: Mika
+24: Phonon
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+436C78</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"P1 Character Color [character selection color list]"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+44B364</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"P1 Character Color [ingame]"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+436C74</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>66</ID>
+      <Description>"P1 Controller Inputs (not computed inputs)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>12</ByteLength>
+      <Address>UNIst.exe+2E8D9C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>50</ID>
+      <Description>"P1 Grid Full Blocks"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAEA8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>59</ID>
+      <Description>"P1 Grid Incomplete Block Progress"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAEAC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"P1 HP"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D4A04</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"P1 Icon"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB368</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>105</ID>
+      <Description>"P1 Max Meter"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D4A30</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>67</ID>
+      <Description>"P1 Meter"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D4A24</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"P1 Side Player [-1 if not present] [0: P1; 1: P2]"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+953Cf4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>86</ID>
+      <Description>"P1 X"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D49DC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>87</ID>
+      <Description>"P1 Y"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D49E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>61</ID>
+      <Description>"P2 Character"</Description>
+      <DropDownList DisplayValueAsItem="1">0: Hyde
+1: Linne
+2: Waldstein
+3: Carmine
+4: Orie
+5: Gordeau
+6: Merkava
+7: Vatista
+8: Seth
+9: Yuzuriha
+10: Hilda
+11: Eltnum
+12: Nanase
+13: Byakuya
+14: Akatsuki
+15: Chaos
+16: Wagner
+17: Enkidu
+18: Londrekia
+21: Mika
+24: Phonon
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+436C8C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"P2 Character Color [character selection color list]"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+44B3A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"P2 Character Color [ingame]"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+436C88</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>57</ID>
+      <Description>"P2 Grid Full Blocks"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAFE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>60</ID>
+      <Description>"P2 Grid Incomplete Block Progress"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAFEC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"P2 HP"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D53E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>74</ID>
+      <Description>"P2 Icon"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4ABBF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>68</ID>
+      <Description>"P2 Meter"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D5404</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>46</ID>
+      <Description>"P2 Side Player [-1 if not present] [0: P1; 1: P2]"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+953Cf8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>92</ID>
+      <Description>"P2 X"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D53BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>93</ID>
+      <Description>"P2 Y"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+7D53C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>48</ID>
+      <Description>"Pause Flag"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAC64</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"Round Timer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AC570</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Stage Music"</Description>
+      <DropDownList DisplayValueAsItem="1">-2: Mute
+1: Hyde
+2: Linne
+3: Waldstein
+4: Carmine
+5: Orie
+6: Gordeau
+7: Merkava
+8: Vatista
+9: Seth
+10: Yuzuriha
+11: Hilda
+12: Eltnum
+13: Nanase
+14: Byakuya
+15: Akatsuki
+16: Chaos
+17: Wagner
+18: Enkidu
+19: Londrekia
+21: Mika
+24: Phonon
+40: Main Menu
+41: Network BGM
+42: Chronicles BGM
+45: UNIEL Network BGM
+50: Story BGM 1
+51: Story BGM 2
+52: Story BGM 3
+53: Story BGM 4
+54: Good Ending
+55: Story BGM 6
+56: Story BGM 7
+57: Story BGM 8
+60: UNIst Opening Theme
+61: UNIclr Opening Theme
+70:
+71:
+72:
+73: a child speaking
+74: uplifting lyrics
+75:
+76:
+82: fanfare
+83: Game Over
+84: VS Battle fanfare
+91: Gordeau vs Chaos
+92: Hyde vs Seth
+93: Londrekia vs Wagner
+98: Result Fanfare
+99: Character Select
+</DropDownList>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB1AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>90</ID>
+      <Description>"Stage Offset??"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+495868</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"TS Timer (GRD Cycle Timer)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB078</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"[Character Select] P1 Character"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+44B360</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>81</ID>
+      <Description>"[Main Menu] Fade-in Framecount"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+94BAA0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>82</ID>
+      <Description>"[Main Menu] Item Selected"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+475680</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>89</ID>
+      <Description>"[Mission Mode only] Game Speed Multiplier (x - 10)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+952FF4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>63</ID>
+      <Description>"[Training Mode] Easy Select P2 Character"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4ABA84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"[Training Mode] Easy-Select BGM"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4364A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"[Training Mode] Easy-Select P1 Character"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB1FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>80</ID>
+      <Description>"[Versus Screen] Current Framecount"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2ECFF4</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of call UNIst.exe+1A0880</Description>
+      <AddressString>UNIst.exe+1A1614</AddressString>
+      <Before>
+        <Byte>B5</Byte>
+        <Byte>F0</Byte>
+        <Byte>FE</Byte>
+        <Byte>FF</Byte>
+        <Byte>FF</Byte>
+      </Before>
+      <Actual>
+        <Byte>E8</Byte>
+        <Byte>67</Byte>
+        <Byte>F2</Byte>
+        <Byte>FF</Byte>
+        <Byte>FF</Byte>
+      </Actual>
+      <After>
+        <Byte>83</Byte>
+        <Byte>F8</Byte>
+        <Byte>01</Byte>
+        <Byte>0F</Byte>
+        <Byte>84</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Character Select - Compares with player input and checks if START (0x80) is being held; opens Color Select menu</Description>
+      <AddressString>UNIst.exe+F91FB</AddressString>
+      <Before>
+        <Byte>3D</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>80</Byte>
+      </Before>
+      <Actual>
+        <Byte>72</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>C7</Byte>
+        <Byte>45</Byte>
+        <Byte>E0</Byte>
+        <Byte>FF</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+  <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+65270</Address>
+      <Comment>Game loop?
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+65D7F</Address>
+      <Comment>call Input process
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+65E42</Address>
+      <Comment>Call Input process
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+65E5F</Address>
+      <Comment>Call Input process
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+67B60</Address>
+      <Comment>Input process start
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+67BC3</Address>
+      <Comment>4; Input process end
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+85124</Address>
+      <Comment>P1 complete GRD blocks (slave)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+8512E</Address>
+      <Comment>P1 incomplete GRD block progression
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+85138</Address>
+      <Comment>P1 incomplete GRD block progression (slave)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+85160</Address>
+      <Comment>P1 GRD to Meter bar (0)
+
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+8519C</Address>
+      <Comment>P2 GRD to Meter bar?
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+851BA</Address>
+      <Comment>P2 incomplete GRD block progression (slave)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+851C4</Address>
+      <Comment>P2 Complete GRD blocks (master)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+851CE</Address>
+      <Comment>P2 Complete GRD blocks (slave, animation only)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+851D8</Address>
+      <Comment>P2 incomplete GRD block progression (master)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+B3FE0</Address>
+      <Comment>Battle init routine?
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+B41B3</Address>
+      <Comment>Sets a frame counter to 0
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+E58F0</Address>
+      <Header>Return to Title Screen call
+</Header>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+EC33E</Address>
+      <Comment>Increases one of the frame count registers
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+EC379</Address>
+      <Comment>Skips reinitialization
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+F328E</Address>
+      <Comment>increment framecount
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+17C5B0</Address>
+      <Header>Change Scene
+</Header>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+1FCE10</Address>
+      <Comment>Safe to say that this is the Game Loop
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"UNIst.exe"+1FCE61</Address>
+      <Comment>Call render routine
+</Comment>
+    </DisassemblerComment>
+  </DisassemblerComments>
+</CheatTable>
