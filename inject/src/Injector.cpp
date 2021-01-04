@@ -1,6 +1,8 @@
 #include "Injector.hpp"
 #undef UNICODE
 
+#include <Definitions.hpp>
+
 #include <stdio.h>
 #include <string>
 
@@ -8,11 +10,6 @@
 #include <DbgHelp.h>
 #include <TlHelp32.h>
 
-#ifdef _DEBUG
-#define DLLName "rollback_d.dll"
-#else
-#define DLLName "rollback.dll"
-#endif
 
 char* formatSystemMessage(DWORD err) {
 	char* buf = nullptr;

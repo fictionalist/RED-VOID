@@ -11,9 +11,9 @@
 #define WINDOW_NAME "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]"
 
 #ifdef _DEBUG
-#define DLLname "redvoid_d.dll"
+#define DLLName "redvoid_d.dll"
 #else
-#define DLLname "redvoid.dll"
+#define DLLName "redvoid.dll"
 #endif
 
 /* Global variables */
