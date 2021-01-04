@@ -18,5 +18,6 @@ Currently, the project is able to do the following:
 - Load and save game states (only during battles) with ``F5`` and ``F6``, respectively.
 - Reroutes Network mode to Single Player Versus to prevent problems.
 
-## Known bugs
+## Known bugs/problems
 - After selecting Network mode, returning to the Main Menu will cause a soft-lock if you select Network mode once more.
+- Currently does not know whether or not the players are in the air when saving/loading the game state. This can cause some weird interactions.
