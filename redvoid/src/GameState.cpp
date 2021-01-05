@@ -22,6 +22,7 @@ struct PlayerState {
 		unsigned int X;
 		unsigned int Y;
 	} Position;
+	unsigned short CurrentAnimation;
 };
 
 struct RoundState {
@@ -50,6 +51,7 @@ bool GameState::save() {
 	savedState->P1.GRD.IncompleteBlock = VALUE_OF(UNICLR_INGAME_P1_GRID_INCOMPLETE_BLOCK_PROGRESS);
 	savedState->P1.Position.X = VALUE_OF(UNICLR_INGAME_P1_X);
 	savedState->P1.Position.Y = VALUE_OF(UNICLR_INGAME_P1_Y);
+	savedState->P1.CurrentAnimation = VALUE_OF(UNICLR_INGAME_P1_ANIMATION);
 
 	savedState->P2.HP = VALUE_OF(UNICLR_INGAME_P2_HP);
 	savedState->P2.Meter = VALUE_OF(UNICLR_INGAME_P2_METER);
@@ -57,6 +59,7 @@ bool GameState::save() {
 	savedState->P2.GRD.IncompleteBlock = VALUE_OF(UNICLR_INGAME_P2_GRID_INCOMPLETE_BLOCK_PROGRESS);
 	savedState->P2.Position.X = VALUE_OF(UNICLR_INGAME_P2_X);
 	savedState->P2.Position.Y = VALUE_OF(UNICLR_INGAME_P2_Y);
+	savedState->P2.CurrentAnimation = VALUE_OF(UNICLR_INGAME_P2_ANIMATION);
 
 	Logger::log("Saved game state.");
 	return true;
@@ -79,6 +82,7 @@ bool GameState::load() {
 	VALUE_OF(UNICLR_INGAME_P1_GRID_INCOMPLETE_BLOCK_PROGRESS) = savedState->P1.GRD.IncompleteBlock;
 	VALUE_OF(UNICLR_INGAME_P1_X) = savedState->P1.Position.X;
 	VALUE_OF(UNICLR_INGAME_P1_Y) = savedState->P1.Position.Y;
+	VALUE_OF(UNICLR_INGAME_P1_ANIMATION) = savedState->P1.CurrentAnimation;
 
 	VALUE_OF(UNICLR_INGAME_P2_HP) = savedState->P2.HP;
 	VALUE_OF(UNICLR_INGAME_P2_METER) = savedState->P2.Meter;
@@ -86,6 +90,7 @@ bool GameState::load() {
 	VALUE_OF(UNICLR_INGAME_P2_GRID_INCOMPLETE_BLOCK_PROGRESS) = savedState->P2.GRD.IncompleteBlock;
 	VALUE_OF(UNICLR_INGAME_P2_X) = savedState->P2.Position.X;
 	VALUE_OF(UNICLR_INGAME_P2_Y) = savedState->P2.Position.Y;
+	VALUE_OF(UNICLR_INGAME_P2_ANIMATION) = savedState->P2.CurrentAnimation;
 
 	Logger::log("Loaded game state.");
 	return true;

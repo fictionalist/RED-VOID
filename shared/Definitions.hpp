@@ -11,9 +11,9 @@
 #define WINDOW_NAME "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]"
 
 #ifdef _DEBUG
-#define DLLname "redvoid_d.dll"
+#define DLLName "redvoid_d.dll"
 #else
-#define DLLname "redvoid.dll"
+#define DLLName "redvoid.dll"
 #endif
 
 /* Global variables */
@@ -56,6 +56,7 @@ enum class GameScenes {
 #define UNICLR_INGAME_P1_GRID_INCOMPLETE_BLOCK_PROGRESS ( (unsigned long) 0x4AAEAC )
 #define UNICLR_INGAME_P1_X								( (unsigned long) 0x7D49DC )
 #define UNICLR_INGAME_P1_Y								( (unsigned long) 0x7D49E0 )
+#define UNICLR_INGAME_P1_ANIMATION						( (unsigned long) 0x7D49B4 )
 
 #define UNICLR_INGAME_P2_CHARACTER						( (unsigned long) 0x436C8C )
 #define UNICLR_INGAME_P2_CHARACTER_COLOR				( (unsigned long) 0x436C88 )
@@ -65,6 +66,7 @@ enum class GameScenes {
 #define UNICLR_INGAME_P2_GRID_INCOMPLETE_BLOCK_PROGRESS ( (unsigned long) 0x4AAFEC )
 #define UNICLR_INGAME_P2_X								( (unsigned long) 0x7D53BC )
 #define UNICLR_INGAME_P2_Y								( (unsigned long) 0x7D53C0 )
+#define UNICLR_INGAME_P2_ANIMATION						( (unsigned long) 0x7D5394 )
 
 /* Game routines */
 

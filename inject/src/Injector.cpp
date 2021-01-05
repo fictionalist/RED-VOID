@@ -7,12 +7,7 @@
 #include <Windows.h>
 #include <DbgHelp.h>
 #include <TlHelp32.h>
-
-#ifdef _DEBUG
-#define DLLName "rollback_d.dll"
-#else
-#define DLLName "rollback.dll"
-#endif
+#include <Definitions.hpp>
 
 char* formatSystemMessage(DWORD err) {
 	char* buf = nullptr;
