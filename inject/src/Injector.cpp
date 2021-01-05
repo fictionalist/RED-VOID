@@ -1,6 +1,8 @@
 #include "Injector.hpp"
 #undef UNICODE
 
+#include <Definitions.hpp>
+
 #include <stdio.h>
 #include <string>
 

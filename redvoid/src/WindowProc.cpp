@@ -7,9 +7,9 @@
 	* provides a mean to interact with a future user interface for the game
 */
 #include <Definitions.hpp>
+#include <Windows.h>
 #include "Logger.hpp"
 #include "GameState.hpp"
-#include <Windows.h>
 
 WNDPROC originalWindowProc = nullptr;
 
@@ -31,7 +31,6 @@ LRESULT CALLBACK windowProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 		}
 		case WM_MOVE:
 		case WM_SIZE: {
-			//UI::windowMoved();
 			break;
 		}
 		default:
