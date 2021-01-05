@@ -9,6 +9,7 @@
 #include <Windows.h>
 #include <DbgHelp.h>
 #include <TlHelp32.h>
+#include <Definitions.hpp>
 
 char* formatSystemMessage(DWORD err) {
 	char* buf = nullptr;
